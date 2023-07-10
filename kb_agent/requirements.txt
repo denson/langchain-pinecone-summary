@@ -1,0 +1,7 @@
+streamlit
+streamlit_chat
+langchain==0.0.228
+pinecone-client
+openai
+tiktoken
+google-search-results
