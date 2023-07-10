@@ -5,3 +5,4 @@ pinecone-client
 openai
 tiktoken
 google-search-results
+beautifulsoup4
